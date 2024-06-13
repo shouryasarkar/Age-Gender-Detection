@@ -17,7 +17,7 @@ The script detects faces in real-time from a webcam feed and estimates the age a
 # Usage
 1. Clone the repository:
     ``` bash
-     git clone https://github.com/your_username/age-gender-estimation.git
+     git clone https://github.com/shouryasarkar/age-gender-estimation.git
     ```
 2. Navigate to the project directory:
    ``` bash
